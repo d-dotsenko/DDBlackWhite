@@ -20,6 +20,26 @@ To install `DDBlackWhite` via [CocoaPods](http://cocoapods.org), add the followi
 pod 'DDBlackWhite'
 ```
 
+After installing the cocoapod into your project import `DDBlackWhite` with:
+
+```
+import DDBlackWhite
+```
+
+### Carthage
+
+To install `DDBlackWhite` via [Carthage](https://github.com/Carthage/Carthage#if-youre-building-for-ios-tvos-or-watchos), add the following line to your Cartfile:
+
+```
+github "d-dotsenko/DDBlackWhite"
+```
+
+And then run:
+
+```
+carthage update
+```
+
 ### Manually
 
 Add `DDBlackWhite` folder to your Xcode project.
