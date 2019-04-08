@@ -79,4 +79,4 @@ func getFilteredImage(closure: @escaping (UIImage?)->Void)
 
 ## License
 
-`DDBlackWhite` is available under the MIT license. See the LICENSE file for more info.
+`DDBlackWhite` is available under the MIT license. See the [LICENSE](./LICENSE) file for more info.
